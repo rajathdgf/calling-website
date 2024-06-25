@@ -1,4 +1,5 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
   <script src='https://cdn.scaledrone.com/scaledrone.min.js'></script>
   <meta charset="utf-8">
